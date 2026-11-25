@@ -1,0 +1,139 @@
+{
+  "project": "Multilingual Fake News Detection Using Cross-Lingual Transformer Embeddings",
+  "dataset": "synthetic_demo",
+  "dataset_type": "synthetic_demo",
+  "data_path": "/home/claude/multilingual_fake_news_project/data/demo_synthetic_multilingual.csv",
+  "encoder": "hashing-char-ngrams-512",
+  "encoder_cross_lingual_status": "no (offline smoke-test backend; character n-grams are not shared across scripts)",
+  "loading": {
+    "raw_rows": 432,
+    "columns_in_file": [
+      "claim_id",
+      "text",
+      "label",
+      "language",
+      "data_origin"
+    ],
+    "columns_used": {
+      "text": "text",
+      "label": "label",
+      "language": "language",
+      "date": null,
+      "group": "claim_id"
+    },
+    "raw_label_counts": {
+      "fake": 219,
+      "real": 213
+    },
+    "language_source": "column 'language'",
+    "dropped_short_or_empty_text": 0,
+    "dropped_unmapped_or_ambiguous_label": 0,
+    "dropped_conflicting_duplicate_texts": 0,
+    "dropped_exact_duplicate_texts": 0,
+    "rows_after_cleaning": 432,
+    "label_counts": {
+      "Potentially Fake": 219,
+      "Real": 213
+    },
+    "language_counts": {
+      "hi-latn": 144,
+      "hi": 144,
+      "en": 144
+    }
+  },
+  "split": {
+    "strategy": "grouped",
+    "fractions": [
+      0.7,
+      0.15,
+      0.15
+    ],
+    "counts": {
+      "train": 303,
+      "validation": 66,
+      "test": 63
+    },
+    "class_counts": {
+      "train": {
+        "Real": 153,
+        "Potentially Fake": 150
+      },
+      "validation": {
+        "Potentially Fake": 39,
+        "Real": 27
+      },
+      "test": {
+        "Real": 33,
+        "Potentially Fake": 30
+      }
+    },
+    "language_counts": {
+      "train": {
+        "hi": 101,
+        "hi-latn": 101,
+        "en": 101
+      },
+      "validation": {
+        "hi-latn": 22,
+        "en": 22,
+        "hi": 22
+      },
+      "test": {
+        "hi-latn": 21,
+        "hi": 21,
+        "en": 21
+      }
+    },
+    "notes": []
+  },
+  "config": {
+    "seed": 42,
+    "encoder": "hashing",
+    "batch_size": 64,
+    "split": "auto",
+    "transfer_source": null,
+    "min_language_rows": 20,
+    "dayfirst": false
+  },
+  "selected_hyperparameters": {
+    "TF-IDF word + LogReg": {
+      "C": 0.1,
+      "threshold": 0.5,
+      "val_macro_f1": 1.0,
+      "n_features": 855
+    },
+    "TF-IDF char + LogReg": {
+      "C": 0.1,
+      "threshold": 0.5,
+      "val_macro_f1": 1.0,
+      "n_features": 5012
+    },
+    "Embeddings + LogReg": {
+      "C": 0.1,
+      "threshold": 0.5,
+      "val_macro_f1": 1.0
+    },
+    "Embeddings + MLP": {
+      "threshold": 0.5,
+      "val_macro_f1": 1.0,
+      "iterations": 18
+    },
+    "Embeddings + HistGradientBoosting": {
+      "threshold": 0.75,
+      "val_macro_f1": 0.9686609686609686
+    }
+  },
+  "primary_model": "Embeddings + LogReg",
+  "transfer_source_language": "en",
+  "transfer_note": "",
+  "alignment_note": "",
+  "versions": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.1",
+    "sentence-transformers": null,
+    "torch": null
+  },
+  "generated_at_utc": "2026-11-13T04:10:52.831472+00:00",
+  "warning": "SYNTHETIC DEMONSTRATION DATA: results only show that the software runs."
+}

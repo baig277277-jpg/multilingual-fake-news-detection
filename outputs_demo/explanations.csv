@@ -1,0 +1,118 @@
+outcome,language,text,true_label,predicted_label,score_potentially_fake,explanation,llm_prompt,neighbours
+TP,en,"SHOCKING secret about the traffic fine system that doctors and officials do not want you to know, 100% proven!",Potentially Fake,Potentially Fake,0.9997263293367934,Prediction: Potentially Fake (score 1.00; decision threshold 0.50). 3 of the 3 most similar labelled training claims are 'Potentially Fake'. This only describes similarity inside the model's embedding space; it is not evidence about whether the claim is true. Verify with reliable external sources.,"You are helping a student explain the output of a fake-news classifier.
+Use ONLY the information below. Do not say whether the claim is true or false, and do not
+invent facts, sources or statistics. If the information is insufficient, say so and state that
+the claim must be checked against reliable external sources (fact-checkers, official records).
+
+Claim (en): SHOCKING secret about the traffic fine system that doctors and officials do not want you to know, 100% proven!
+Classifier output: Potentially Fake (score 1.00)
+Most similar labelled training claims:
+- [en, labelled Potentially Fake, similarity 0.94] SHOCKING secret about the new vaccine that doctors and officials do not want you to know, 100% proven!
+- [en, labelled Potentially Fake, similarity 0.94] SHOCKING secret about the property tax system that doctors and officials do not want you to know, 100% proven!
+- [en, labelled Potentially Fake, similarity 0.92] SHOCKING secret about the local train service that doctors and officials do not want you to know, 100% proven!
+
+Write a short explanation (at most 4 sentences) a non-expert can follow.","[en, Potentially Fake, 0.94] SHOCKING secret about the new vaccine that doctors and officials do not want you to know, 100% proven! | [en, Potentially Fake, 0.94] SHOCKING secret about the property tax system that doctors and officials do not want you to know, 100% proven! | [en, Potentially Fake, 0.92] SHOCKING secret about the local train service that doctors and officials do not want you to know, 100% proven!"
+TP,hi-latn,"yaataayaat jurmaana pranaali ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",Potentially Fake,Potentially Fake,0.9996867614951975,Prediction: Potentially Fake (score 1.00; decision threshold 0.50). 3 of the 3 most similar labelled training claims are 'Potentially Fake'. This only describes similarity inside the model's embedding space; it is not evidence about whether the claim is true. Verify with reliable external sources.,"You are helping a student explain the output of a fake-news classifier.
+Use ONLY the information below. Do not say whether the claim is true or false, and do not
+invent facts, sources or statistics. If the information is insufficient, say so and state that
+the claim must be checked against reliable external sources (fact-checkers, official records).
+
+Claim (hi-latn): yaataayaat jurmaana pranaali ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!
+Classifier output: Potentially Fake (score 1.00)
+Most similar labelled training claims:
+- [hi-latn, labelled Potentially Fake, similarity 0.92] sampatti kar pranaali ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!
+- [hi-latn, labelled Potentially Fake, similarity 0.90] gaon ke aspataal ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!
+- [hi-latn, labelled Potentially Fake, similarity 0.90] bank rin yojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!
+
+Write a short explanation (at most 4 sentences) a non-expert can follow.","[hi-latn, Potentially Fake, 0.92] sampatti kar pranaali ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh! | [hi-latn, Potentially Fake, 0.90] gaon ke aspataal ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh! | [hi-latn, Potentially Fake, 0.90] bank rin yojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!"
+TP,hi-latn,"ration card yojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",Potentially Fake,Potentially Fake,0.9996697117031194,Prediction: Potentially Fake (score 1.00; decision threshold 0.50). 3 of the 3 most similar labelled training claims are 'Potentially Fake'. This only describes similarity inside the model's embedding space; it is not evidence about whether the claim is true. Verify with reliable external sources.,"You are helping a student explain the output of a fake-news classifier.
+Use ONLY the information below. Do not say whether the claim is true or false, and do not
+invent facts, sources or statistics. If the information is insufficient, say so and state that
+the claim must be checked against reliable external sources (fact-checkers, official records).
+
+Claim (hi-latn): ration card yojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!
+Classifier output: Potentially Fake (score 1.00)
+Most similar labelled training claims:
+- [hi-latn, labelled Potentially Fake, similarity 0.96] bank rin yojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!
+- [hi-latn, labelled Potentially Fake, similarity 0.95] metro pariyojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!
+- [hi-latn, labelled Potentially Fake, similarity 0.94] krishi subsidy yojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!
+
+Write a short explanation (at most 4 sentences) a non-expert can follow.","[hi-latn, Potentially Fake, 0.96] bank rin yojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh! | [hi-latn, Potentially Fake, 0.95] metro pariyojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh! | [hi-latn, Potentially Fake, 0.94] krishi subsidy yojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!"
+TN,hi,अधिकारियों ने प्रेस ब्रीफिंग में बिजली कनेक्शन के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,Real,Real,0.0005803416441372204,Prediction: Real (score 0.00; decision threshold 0.50). 0 of the 3 most similar labelled training claims are 'Potentially Fake'. This only describes similarity inside the model's embedding space; it is not evidence about whether the claim is true. Verify with reliable external sources.,"You are helping a student explain the output of a fake-news classifier.
+Use ONLY the information below. Do not say whether the claim is true or false, and do not
+invent facts, sources or statistics. If the information is insufficient, say so and state that
+the claim must be checked against reliable external sources (fact-checkers, official records).
+
+Claim (hi): अधिकारियों ने प्रेस ब्रीफिंग में बिजली कनेक्शन के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।
+Classifier output: Real (score 0.00)
+Most similar labelled training claims:
+- [hi, labelled Real, similarity 0.96] अधिकारियों ने प्रेस ब्रीफिंग में नए टीके के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।
+- [hi, labelled Real, similarity 0.96] अधिकारियों ने प्रेस ब्रीफिंग में पेंशन योजना के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।
+- [hi, labelled Real, similarity 0.96] अधिकारियों ने प्रेस ब्रीफिंग में बाढ़ राहत कोष के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।
+
+Write a short explanation (at most 4 sentences) a non-expert can follow.","[hi, Real, 0.96] अधिकारियों ने प्रेस ब्रीफिंग में नए टीके के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं। | [hi, Real, 0.96] अधिकारियों ने प्रेस ब्रीफिंग में पेंशन योजना के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं। | [hi, Real, 0.96] अधिकारियों ने प्रेस ब्रीफिंग में बाढ़ राहत कोष के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।"
+TN,hi-latn,Adhikariyon ne press briefing mein bank rin yojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,Real,Real,0.0017983991845628349,Prediction: Real (score 0.00; decision threshold 0.50). 0 of the 3 most similar labelled training claims are 'Potentially Fake'. This only describes similarity inside the model's embedding space; it is not evidence about whether the claim is true. Verify with reliable external sources.,"You are helping a student explain the output of a fake-news classifier.
+Use ONLY the information below. Do not say whether the claim is true or false, and do not
+invent facts, sources or statistics. If the information is insufficient, say so and state that
+the claim must be checked against reliable external sources (fact-checkers, official records).
+
+Claim (hi-latn): Adhikariyon ne press briefing mein bank rin yojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.
+Classifier output: Real (score 0.00)
+Most similar labelled training claims:
+- [hi-latn, labelled Real, similarity 0.98] Adhikariyon ne press briefing mein pension yojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit …
+- [hi-latn, labelled Real, similarity 0.98] Adhikariyon ne press briefing mein ration card yojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaas…
+- [hi-latn, labelled Real, similarity 0.98] Adhikariyon ne press briefing mein metro pariyojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashi…
+
+Write a short explanation (at most 4 sentences) a non-expert can follow.","[hi-latn, Real, 0.98] Adhikariyon ne press briefing mein pension yojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit … | [hi-latn, Real, 0.98] Adhikariyon ne press briefing mein ration card yojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaas… | [hi-latn, Real, 0.98] Adhikariyon ne press briefing mein metro pariyojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashi…"
+TN,hi,अधिकारियों ने प्रेस ब्रीफिंग में बस पास प्रणाली के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,Real,Real,0.0021723724159494633,Prediction: Real (score 0.00; decision threshold 0.50). 0 of the 3 most similar labelled training claims are 'Potentially Fake'. This only describes similarity inside the model's embedding space; it is not evidence about whether the claim is true. Verify with reliable external sources.,"You are helping a student explain the output of a fake-news classifier.
+Use ONLY the information below. Do not say whether the claim is true or false, and do not
+invent facts, sources or statistics. If the information is insufficient, say so and state that
+the claim must be checked against reliable external sources (fact-checkers, official records).
+
+Claim (hi): अधिकारियों ने प्रेस ब्रीफिंग में बस पास प्रणाली के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।
+Classifier output: Real (score 0.00)
+Most similar labelled training claims:
+- [hi, labelled Real, similarity 0.98] अधिकारियों ने प्रेस ब्रीफिंग में संपत्ति कर प्रणाली के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।
+- [hi, labelled Real, similarity 0.97] अधिकारियों ने प्रेस ब्रीफिंग में नए टीके के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।
+- [hi, labelled Real, similarity 0.96] अधिकारियों ने प्रेस ब्रीफिंग में यातायात जुर्माना प्रणाली के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।
+
+Write a short explanation (at most 4 sentences) a non-expert can follow.","[hi, Real, 0.98] अधिकारियों ने प्रेस ब्रीफिंग में संपत्ति कर प्रणाली के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं। | [hi, Real, 0.97] अधिकारियों ने प्रेस ब्रीफिंग में नए टीके के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं। | [hi, Real, 0.96] अधिकारियों ने प्रेस ब्रीफिंग में यातायात जुर्माना प्रणाली के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।"
+FP,en,"Anonymous source says that the public library will change overnight and everyone will lose money, no official confirmation needed.",Real,Potentially Fake,0.9531801719110469,Prediction: Potentially Fake (score 0.95; decision threshold 0.50). 2 of the 3 most similar labelled training claims are 'Potentially Fake'. This only describes similarity inside the model's embedding space; it is not evidence about whether the claim is true. Verify with reliable external sources.,"You are helping a student explain the output of a fake-news classifier.
+Use ONLY the information below. Do not say whether the claim is true or false, and do not
+invent facts, sources or statistics. If the information is insufficient, say so and state that
+the claim must be checked against reliable external sources (fact-checkers, official records).
+
+Claim (en): Anonymous source says that the public library will change overnight and everyone will lose money, no official confirmation needed.
+Classifier output: Potentially Fake (score 0.95)
+Most similar labelled training claims:
+- [en, labelled Potentially Fake, similarity 0.95] Anonymous source says that the city water supply will change overnight and everyone will lose money, no official confirmation needed.
+- [en, labelled Potentially Fake, similarity 0.95] Anonymous source says that the new vaccine will change overnight and everyone will lose money, no official confirmation needed.
+- [en, labelled Real, similarity 0.95] Anonymous source says that the pension scheme will change overnight and everyone will lose money, no official confirmation needed.
+
+Write a short explanation (at most 4 sentences) a non-expert can follow.","[en, Potentially Fake, 0.95] Anonymous source says that the city water supply will change overnight and everyone will lose money, no official confirmation needed. | [en, Potentially Fake, 0.95] Anonymous source says that the new vaccine will change overnight and everyone will lose money, no official confirmation needed. | [en, Real, 0.95] Anonymous source says that the pension scheme will change overnight and everyone will lose money, no official confirmation needed."
+FP,hi-latn,"Agyaat sutra ka kehna hai ki saarvajanik pustakaalay ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",Real,Potentially Fake,0.9208662431971465,Prediction: Potentially Fake (score 0.92; decision threshold 0.50). 3 of the 3 most similar labelled training claims are 'Potentially Fake'. This only describes similarity inside the model's embedding space; it is not evidence about whether the claim is true. Verify with reliable external sources.,"You are helping a student explain the output of a fake-news classifier.
+Use ONLY the information below. Do not say whether the claim is true or false, and do not
+invent facts, sources or statistics. If the information is insufficient, say so and state that
+the claim must be checked against reliable external sources (fact-checkers, official records).
+
+Claim (hi-latn): Agyaat sutra ka kehna hai ki saarvajanik pustakaalay ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.
+Classifier output: Potentially Fake (score 0.92)
+Most similar labelled training claims:
+- [hi-latn, labelled Potentially Fake, similarity 0.95] Agyaat sutra ka kehna hai ki gaon ke aspataal ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki…
+- [hi-latn, labelled Potentially Fake, similarity 0.95] Agyaat sutra ka kehna hai ki naye teeke ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroo…
+- [hi-latn, labelled Potentially Fake, similarity 0.95] Agyaat sutra ka kehna hai ki sampatti kar pranaali ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik push…
+
+Write a short explanation (at most 4 sentences) a non-expert can follow.","[hi-latn, Potentially Fake, 0.95] Agyaat sutra ka kehna hai ki gaon ke aspataal ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki… | [hi-latn, Potentially Fake, 0.95] Agyaat sutra ka kehna hai ki naye teeke ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroo… | [hi-latn, Potentially Fake, 0.95] Agyaat sutra ka kehna hai ki sampatti kar pranaali ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik push…"
+FP,hi,"अज्ञात सूत्र का कहना है कि सार्वजनिक पुस्तकालय के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",Real,Potentially Fake,0.9076348261707183,Prediction: Potentially Fake (score 0.91; decision threshold 0.50). 2 of the 3 most similar labelled training claims are 'Potentially Fake'. This only describes similarity inside the model's embedding space; it is not evidence about whether the claim is true. Verify with reliable external sources.,"You are helping a student explain the output of a fake-news classifier.
+Use ONLY the information below. Do not say whether the claim is true or false, and do not
+invent facts, sources or statistics. If the information is insufficient, say so and state that
+the claim must be checked against reliable external sources (fact-checkers, official records).
+
+Claim (hi): अज्ञात सूत्र का कहना है कि सार्वजनिक पुस्तकालय के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।
+Classifier output: Potentially Fake (score 0.91)
+Most similar labelled training claims:
+- [hi, labelled Potentially Fake, similarity 0.94] अज्ञात सूत्र का कहना है कि नए टीके के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।
+- [hi, labelled Potentially Fake, similarity 0.94] अज्ञात सूत्र का कहना है कि राशन कार्ड योजना के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।
+- [hi, labelled Real, similarity 0.94] अज्ञात सूत्र का कहना है कि पेंशन योजना के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।
+
+Write a short explanation (at most 4 sentences) a non-expert can follow.","[hi, Potentially Fake, 0.94] अज्ञात सूत्र का कहना है कि नए टीके के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं। | [hi, Potentially Fake, 0.94] अज्ञात सूत्र का कहना है कि राशन कार्ड योजना के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं। | [hi, Real, 0.94] अज्ञात सूत्र का कहना है कि पेंशन योजना के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।"

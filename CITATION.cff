@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "Cite the public dataset you use and describe this software project when reusing the implementation."
+title: "Multilingual Fake News Detection Using Cross-Lingual Transformer Embeddings"
+type: software
+authors:
+  - name: "REPLACE WITH YOUR NAME"

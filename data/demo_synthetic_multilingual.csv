@@ -1,0 +1,433 @@
+claim_id,text,label,language,data_origin
+demo_0023,Adhikariyon ne press briefing mein raashtreeya raajmaarg ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0011,अधिकारियों ने प्रेस ब्रीफिंग में नए टीके के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0035,Adhikariyon ne press briefing mein bijli connection ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0016,A news report about the local train service cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0025,"school pravesh prakriya ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0030,"फॉरवर्ड संदेश का दावा है कि बिजली कनेक्शन के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0062,"अज्ञात सूत्र का कहना है कि बाढ़ राहत कोष के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0026,"Anonymous source says that the school admission process will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0126,"फॉरवर्ड संदेश का दावा है कि हवाई अड्डे के विस्तार के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0081,The government department published an official notice about the mobile network service and shared the full document on its website.,real,en,synthetic_demo
+demo_0112,A news report about the bus pass system cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0047,Officials confirmed the schedule for the bank loan scheme at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0027,Sarkari vibhag ne school pravesh prakriya ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,fake,hi-Latn,synthetic_demo
+demo_0020,"Anonymous source says that the national highway will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0102,"फॉरवर्ड संदेश का दावा है कि डिजिटल भुगतान ऐप के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0020,"अज्ञात सूत्र का कहना है कि राष्ट्रीय राजमार्ग के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0114,"Forwarded message claims the truth about the farm subsidy scheme is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0061,"बाढ़ राहत कोष के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0100,chhaatravritti kaaryakram ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0143,Officials confirmed the schedule for the voter registration drive at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0032,"Agyaat sutra ka kehna hai ki bijli connection ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0066,"फॉरवर्ड संदेश का दावा है कि पेंशन योजना के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0108,"फॉरवर्ड संदेश का दावा है कि बस पास प्रणाली के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0105,सरकारी विभाग ने डिजिटल भुगतान ऐप के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0040,A news report about the village hospital cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0057,Sarkari vibhag ne metro pariyojana ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0057,सरकारी विभाग ने मेट्रो परियोजना के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0050,"अज्ञात सूत्र का कहना है कि राशन कार्ड योजना के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0130,A news report about the airport expansion cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0109,"बस पास प्रणाली के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0109,"SHOCKING secret about the bus pass system that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0117,The government department published an official notice about the farm subsidy scheme and shared the full document on its website.,real,en,synthetic_demo
+demo_0064,A news report about the flood relief fund cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0132,"फॉरवर्ड संदेश का दावा है कि यातायात जुर्माना प्रणाली के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0025,"स्कूल प्रवेश प्रक्रिया के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0056,"Anonymous source says that the metro project will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0045,The government department published an official notice about the bank loan scheme and shared the full document on its website.,real,en,synthetic_demo
+demo_0140,"Agyaat sutra ka kehna hai ki matdaata panjeekaran abhiyaan ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0031,"बिजली कनेक्शन के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0125,अधिकारियों ने प्रेस ब्रीफिंग में सामुदायिक स्वास्थ्य शिविर के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0017,Officials confirmed the schedule for the local train service at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0004,shehar ki paani ki aapurti ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0035,अधिकारियों ने प्रेस ब्रीफिंग में बिजली कनेक्शन के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0126,"Forward message ka daava hai ki havaai adde ke vistaar ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0092,"अज्ञात सूत्र का कहना है कि कचरा संग्रहण सेवा के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0064,baadh raahat kosh ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0058,A news report about the metro project cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0054,"Forward message ka daava hai ki metro pariyojana ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0127,"havaai adde ke vistaar ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0002,"Anonymous source says that the city water supply will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0081,सरकारी विभाग ने मोबाइल नेटवर्क सेवा के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0122,"Anonymous source says that the community health camp will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0075,सरकारी विभाग ने सार्वजनिक पुस्तकालय के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0062,"Agyaat sutra ka kehna hai ki baadh raahat kosh ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0143,अधिकारियों ने प्रेस ब्रीफिंग में मतदाता पंजीकरण अभियान के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0012,"Forwarded message claims the truth about the local train service is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0037,"SHOCKING secret about the village hospital that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0126,"Forwarded message claims the truth about the airport expansion is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0053,Officials confirmed the schedule for the ration card scheme at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0042,"Forward message ka daava hai ki bank rin yojana ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0101,Adhikariyon ne press briefing mein chhaatravritti kaaryakram ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0094,A news report about the garbage collection service cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0105,The government department published an official notice about the digital payment app and shared the full document on its website.,real,en,synthetic_demo
+demo_0009,सरकारी विभाग ने नए टीके के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0129,Sarkari vibhag ne havaai adde ke vistaar ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0028,school pravesh prakriya ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0142,A news report about the voter registration drive cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0074,"Anonymous source says that the public library will change overnight and everyone will lose money, no official confirmation needed.",real,en,synthetic_demo
+demo_0125,Adhikariyon ne press briefing mein saamudaayik svaasthya shivir ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0089,Adhikariyon ne press briefing mein sampatti kar pranaali ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0034,A news report about the electricity connection cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0006,"Forwarded message claims the truth about the new vaccine is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0038,"Agyaat sutra ka kehna hai ki gaon ke aspataal ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0009,Sarkari vibhag ne naye teeke ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0018,"फॉरवर्ड संदेश का दावा है कि राष्ट्रीय राजमार्ग के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0121,"SHOCKING secret about the community health camp that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0046,A news report about the bank loan scheme cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0120,"Forward message ka daava hai ki saamudaayik svaasthya shivir ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0032,"Anonymous source says that the electricity connection will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0104,"Anonymous source says that the digital payment app will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0107,Officials confirmed the schedule for the digital payment app at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0074,"Agyaat sutra ka kehna hai ki saarvajanik pustakaalay ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",real,hi-Latn,synthetic_demo
+demo_0019,"raashtreeya raajmaarg ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0073,"SHOCKING secret about the public library that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0086,"Anonymous source says that the property tax system will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0107,Adhikariyon ne press briefing mein digital bhugtaan app ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0006,"Forward message ka daava hai ki naye teeke ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0033,सरकारी विभाग ने बिजली कनेक्शन के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0083,Adhikariyon ne press briefing mein mobile network seva ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0135,The government department published an official notice about the traffic fine system and shared the full document on its website.,fake,en,synthetic_demo
+demo_0041,Officials confirmed the schedule for the village hospital at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0124,saamudaayik svaasthya shivir ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,fake,hi-Latn,synthetic_demo
+demo_0069,The government department published an official notice about the pension scheme and shared the full document on its website.,real,en,synthetic_demo
+demo_0058,metro pariyojana ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0044,"Anonymous source says that the bank loan scheme will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0085,"संपत्ति कर प्रणाली के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0078,"Forward message ka daava hai ki mobile network seva ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0021,सरकारी विभाग ने राष्ट्रीय राजमार्ग के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0043,"bank rin yojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0041,अधिकारियों ने प्रेस ब्रीफिंग में गाँव के अस्पताल के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0142,मतदाता पंजीकरण अभियान के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0073,"सार्वजनिक पुस्तकालय के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0068,"Anonymous source says that the pension scheme will change overnight and everyone will lose money, no official confirmation needed.",real,en,synthetic_demo
+demo_0049,"SHOCKING secret about the ration card scheme that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0015,सरकारी विभाग ने स्थानीय रेल सेवा के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0046,bank rin yojana ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0102,"Forwarded message claims the truth about the digital payment app is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0120,"फॉरवर्ड संदेश का दावा है कि सामुदायिक स्वास्थ्य शिविर के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0110,"अज्ञात सूत्र का कहना है कि बस पास प्रणाली के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0038,"अज्ञात सूत्र का कहना है कि गाँव के अस्पताल के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0070,पेंशन योजना के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0097,"chhaatravritti kaaryakram ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0092,"Anonymous source says that the garbage collection service will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0123,Sarkari vibhag ne saamudaayik svaasthya shivir ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0064,बाढ़ राहत कोष के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0069,सरकारी विभाग ने पेंशन योजना के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0063,The government department published an official notice about the flood relief fund and shared the full document on its website.,real,en,synthetic_demo
+demo_0010,A news report about the new vaccine cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0131,Adhikariyon ne press briefing mein havaai adde ke vistaar ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0013,"स्थानीय रेल सेवा के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0050,"Anonymous source says that the ration card scheme will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0141,The government department published an official notice about the voter registration drive and shared the full document on its website.,real,en,synthetic_demo
+demo_0136,A news report about the traffic fine system cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0072,"फॉरवर्ड संदेश का दावा है कि सार्वजनिक पुस्तकालय के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0086,"अज्ञात सूत्र का कहना है कि संपत्ति कर प्रणाली के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0039,Sarkari vibhag ne gaon ke aspataal ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0128,"अज्ञात सूत्र का कहना है कि हवाई अड्डे के विस्तार के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0072,"Forwarded message claims the truth about the public library is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0015,The government department published an official notice about the local train service and shared the full document on its website.,real,en,synthetic_demo
+demo_0011,Adhikariyon ne press briefing mein naye teeke ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0093,Sarkari vibhag ne kachra sangrahan seva ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0076,saarvajanik pustakaalay ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0070,pension yojana ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0059,Adhikariyon ne press briefing mein metro pariyojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0003,The government department published an official notice about the city water supply and shared the full document on its website.,real,en,synthetic_demo
+demo_0135,Sarkari vibhag ne yaataayaat jurmaana pranaali ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,fake,hi-Latn,synthetic_demo
+demo_0005,Officials confirmed the schedule for the city water supply at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0099,सरकारी विभाग ने छात्रवृत्ति कार्यक्रम के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0050,"Agyaat sutra ka kehna hai ki ration card yojana ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0060,"Forwarded message claims the truth about the flood relief fund is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0048,"Forwarded message claims the truth about the ration card scheme is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0112,bus pass pranaali ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0075,The government department published an official notice about the public library and shared the full document on its website.,real,en,synthetic_demo
+demo_0080,"Anonymous source says that the mobile network service will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0057,The government department published an official notice about the metro project and shared the full document on its website.,real,en,synthetic_demo
+demo_0037,"गाँव के अस्पताल के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0017,Adhikariyon ne press briefing mein sthaaneeya rail seva ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0061,"baadh raahat kosh ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0094,kachra sangrahan seva ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0012,"Forward message ka daava hai ki sthaaneeya rail seva ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0022,A news report about the national highway cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0026,"Agyaat sutra ka kehna hai ki school pravesh prakriya ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0141,Sarkari vibhag ne matdaata panjeekaran abhiyaan ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0108,"Forwarded message claims the truth about the bus pass system is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0090,"Forward message ka daava hai ki kachra sangrahan seva ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0123,The government department published an official notice about the community health camp and shared the full document on its website.,real,en,synthetic_demo
+demo_0000,"Forwarded message claims the truth about the city water supply is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0091,"SHOCKING secret about the garbage collection service that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0103,"SHOCKING secret about the digital payment app that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0048,"फॉरवर्ड संदेश का दावा है कि राशन कार्ड योजना के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0109,"bus pass pranaali ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0084,"फॉरवर्ड संदेश का दावा है कि संपत्ति कर प्रणाली के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",real,hi,synthetic_demo
+demo_0052,A news report about the ration card scheme cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0030,"Forwarded message claims the truth about the electricity connection is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0072,"Forward message ka daava hai ki saarvajanik pustakaalay ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0093,The government department published an official notice about the garbage collection service and shared the full document on its website.,real,en,synthetic_demo
+demo_0024,"Forwarded message claims the truth about the school admission process is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0036,"Forwarded message claims the truth about the village hospital is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0127,"SHOCKING secret about the airport expansion that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0092,"Agyaat sutra ka kehna hai ki kachra sangrahan seva ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0022,raashtreeya raajmaarg ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0091,"kachra sangrahan seva ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0143,Adhikariyon ne press briefing mein matdaata panjeekaran abhiyaan ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0038,"Anonymous source says that the village hospital will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0051,Sarkari vibhag ne ration card yojana ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,fake,hi-Latn,synthetic_demo
+demo_0129,The government department published an official notice about the airport expansion and shared the full document on its website.,real,en,synthetic_demo
+demo_0043,"बैंक ऋण योजना के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0142,matdaata panjeekaran abhiyaan ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0011,Officials confirmed the schedule for the new vaccine at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0104,"अज्ञात सूत्र का कहना है कि डिजिटल भुगतान ऐप के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0078,"फॉरवर्ड संदेश का दावा है कि मोबाइल नेटवर्क सेवा के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0113,Officials confirmed the schedule for the bus pass system at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0089,Officials confirmed the schedule for the property tax system at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0067,"पेंशन योजना के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0051,सरकारी विभाग ने राशन कार्ड योजना के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,fake,hi,synthetic_demo
+demo_0077,अधिकारियों ने प्रेस ब्रीफिंग में सार्वजनिक पुस्तकालय के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0071,Officials confirmed the schedule for the pension scheme at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0140,"Anonymous source says that the voter registration drive will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0080,"अज्ञात सूत्र का कहना है कि मोबाइल नेटवर्क सेवा के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0047,अधिकारियों ने प्रेस ब्रीफिंग में बैंक ऋण योजना के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0010,naye teeke ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0086,"Agyaat sutra ka kehna hai ki sampatti kar pranaali ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0016,स्थानीय रेल सेवा के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0021,The government department published an official notice about the national highway and shared the full document on its website.,real,en,synthetic_demo
+demo_0103,"डिजिटल भुगतान ऐप के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0082,mobile network seva ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0041,Adhikariyon ne press briefing mein gaon ke aspataal ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0111,Sarkari vibhag ne bus pass pranaali ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0100,छात्रवृत्ति कार्यक्रम के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0051,The government department published an official notice about the ration card scheme and shared the full document on its website.,fake,en,synthetic_demo
+demo_0014,"Anonymous source says that the local train service will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0096,"फॉरवर्ड संदेश का दावा है कि छात्रवृत्ति कार्यक्रम के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0119,Officials confirmed the schedule for the farm subsidy scheme at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0081,Sarkari vibhag ne mobile network seva ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0131,अधिकारियों ने प्रेस ब्रीफिंग में हवाई अड्डे के विस्तार के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0033,Sarkari vibhag ne bijli connection ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0077,Officials confirmed the schedule for the public library at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0029,Officials confirmed the schedule for the school admission process at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0059,अधिकारियों ने प्रेस ब्रीफिंग में मेट्रो परियोजना के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0001,"शहर की पानी की आपूर्ति के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0084,"Forwarded message claims the truth about the property tax system is being hidden, share with everyone before it is deleted!",real,en,synthetic_demo
+demo_0115,"SHOCKING secret about the farm subsidy scheme that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0036,"Forward message ka daava hai ki gaon ke aspataal ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0023,Officials confirmed the schedule for the national highway at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0032,"अज्ञात सूत्र का कहना है कि बिजली कनेक्शन के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0119,Adhikariyon ne press briefing mein krishi subsidy yojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0065,Officials confirmed the schedule for the flood relief fund at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0014,"Agyaat sutra ka kehna hai ki sthaaneeya rail seva ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0028,A news report about the school admission process cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0079,"SHOCKING secret about the mobile network service that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0114,"फॉरवर्ड संदेश का दावा है कि कृषि सब्सिडी योजना के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0068,"अज्ञात सूत्र का कहना है कि पेंशन योजना के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",real,hi,synthetic_demo
+demo_0026,"अज्ञात सूत्र का कहना है कि स्कूल प्रवेश प्रक्रिया के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0039,The government department published an official notice about the village hospital and shared the full document on its website.,real,en,synthetic_demo
+demo_0103,"digital bhugtaan app ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0015,Sarkari vibhag ne sthaaneeya rail seva ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0054,"फॉरवर्ड संदेश का दावा है कि मेट्रो परियोजना के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0040,गाँव के अस्पताल के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0132,"Forwarded message claims the truth about the traffic fine system is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0129,सरकारी विभाग ने हवाई अड्डे के विस्तार के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0096,"Forward message ka daava hai ki chhaatravritti kaaryakram ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0008,"Agyaat sutra ka kehna hai ki naye teeke ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0003,सरकारी विभाग ने शहर की पानी की आपूर्ति के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0000,"Forward message ka daava hai ki shehar ki paani ki aapurti ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0060,"Forward message ka daava hai ki baadh raahat kosh ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0053,अधिकारियों ने प्रेस ब्रीफिंग में राशन कार्ड योजना के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0024,"Forward message ka daava hai ki school pravesh prakriya ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0111,The government department published an official notice about the bus pass system and shared the full document on its website.,real,en,synthetic_demo
+demo_0019,"राष्ट्रीय राजमार्ग के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0066,"Forward message ka daava hai ki pension yojana ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0087,The government department published an official notice about the property tax system and shared the full document on its website.,real,en,synthetic_demo
+demo_0001,"shehar ki paani ki aapurti ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0000,"फॉरवर्ड संदेश का दावा है कि शहर की पानी की आपूर्ति के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0043,"SHOCKING secret about the bank loan scheme that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0013,"sthaaneeya rail seva ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0136,यातायात जुर्माना प्रणाली के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0013,"SHOCKING secret about the local train service that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0078,"Forwarded message claims the truth about the mobile network service is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0067,"pension yojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0055,"metro pariyojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0039,सरकारी विभाग ने गाँव के अस्पताल के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0090,"फॉरवर्ड संदेश का दावा है कि कचरा संग्रहण सेवा के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0137,अधिकारियों ने प्रेस ब्रीफिंग में यातायात जुर्माना प्रणाली के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0016,sthaaneeya rail seva ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0019,"SHOCKING secret about the national highway that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0055,"मेट्रो परियोजना के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0133,"SHOCKING secret about the traffic fine system that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0104,"Agyaat sutra ka kehna hai ki digital bhugtaan app ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0137,Officials confirmed the schedule for the traffic fine system at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0138,"Forward message ka daava hai ki matdaata panjeekaran abhiyaan ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0063,सरकारी विभाग ने बाढ़ राहत कोष के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0071,अधिकारियों ने प्रेस ब्रीफिंग में पेंशन योजना के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0117,सरकारी विभाग ने कृषि सब्सिडी योजना के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0033,The government department published an official notice about the electricity connection and shared the full document on its website.,real,en,synthetic_demo
+demo_0046,बैंक ऋण योजना के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0123,सरकारी विभाग ने सामुदायिक स्वास्थ्य शिविर के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0042,"Forwarded message claims the truth about the bank loan scheme is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0082,A news report about the mobile network service cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0140,"अज्ञात सूत्र का कहना है कि मतदाता पंजीकरण अभियान के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0063,Sarkari vibhag ne baadh raahat kosh ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0088,A news report about the property tax system cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0027,The government department published an official notice about the school admission process and shared the full document on its website.,fake,en,synthetic_demo
+demo_0135,सरकारी विभाग ने यातायात जुर्माना प्रणाली के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,fake,hi,synthetic_demo
+demo_0093,सरकारी विभाग ने कचरा संग्रहण सेवा के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0099,Sarkari vibhag ne chhaatravritti kaaryakram ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0061,"SHOCKING secret about the flood relief fund that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0136,yaataayaat jurmaana pranaali ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0002,"Agyaat sutra ka kehna hai ki shehar ki paani ki aapurti ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0087,सरकारी विभाग ने संपत्ति कर प्रणाली के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0080,"Agyaat sutra ka kehna hai ki mobile network seva ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0044,"अज्ञात सूत्र का कहना है कि बैंक ऋण योजना के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0122,"Agyaat sutra ka kehna hai ki saamudaayik svaasthya shivir ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0089,अधिकारियों ने प्रेस ब्रीफिंग में संपत्ति कर प्रणाली के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0079,"mobile network seva ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0105,Sarkari vibhag ne digital bhugtaan app ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0027,सरकारी विभाग ने स्कूल प्रवेश प्रक्रिया के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,fake,hi,synthetic_demo
+demo_0100,A news report about the scholarship programme cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0098,"अज्ञात सूत्र का कहना है कि छात्रवृत्ति कार्यक्रम के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0034,बिजली कनेक्शन के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0087,Sarkari vibhag ne sampatti kar pranaali ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0034,bijli connection ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0035,Officials confirmed the schedule for the electricity connection at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0116,"Agyaat sutra ka kehna hai ki krishi subsidy yojana ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0007,"SHOCKING secret about the new vaccine that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0110,"Agyaat sutra ka kehna hai ki bus pass pranaali ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0091,"कचरा संग्रहण सेवा के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0010,नए टीके के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0138,"फॉरवर्ड संदेश का दावा है कि मतदाता पंजीकरण अभियान के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0122,"अज्ञात सूत्र का कहना है कि सामुदायिक स्वास्थ्य शिविर के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0084,"Forward message ka daava hai ki sampatti kar pranaali ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",real,hi-Latn,synthetic_demo
+demo_0005,Adhikariyon ne press briefing mein shehar ki paani ki aapurti ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0008,"Anonymous source says that the new vaccine will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0128,"Anonymous source says that the airport expansion will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0003,Sarkari vibhag ne shehar ki paani ki aapurti ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0090,"Forwarded message claims the truth about the garbage collection service is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0066,"Forwarded message claims the truth about the pension scheme is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0018,"Forward message ka daava hai ki raashtreeya raajmaarg ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0112,बस पास प्रणाली के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0065,Adhikariyon ne press briefing mein baadh raahat kosh ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0006,"फॉरवर्ड संदेश का दावा है कि नए टीके के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0054,"Forwarded message claims the truth about the metro project is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0106,डिजिटल भुगतान ऐप के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0106,digital bhugtaan app ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0102,"Forward message ka daava hai ki digital bhugtaan app ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0124,सामुदायिक स्वास्थ्य शिविर के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,fake,hi,synthetic_demo
+demo_0024,"फॉरवर्ड संदेश का दावा है कि स्कूल प्रवेश प्रक्रिया के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0131,Officials confirmed the schedule for the airport expansion at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0001,"SHOCKING secret about the city water supply that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0017,अधिकारियों ने प्रेस ब्रीफिंग में स्थानीय रेल सेवा के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0005,अधिकारियों ने प्रेस ब्रीफिंग में शहर की पानी की आपूर्ति के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0021,Sarkari vibhag ne raashtreeya raajmaarg ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0125,Officials confirmed the schedule for the community health camp at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0073,"saarvajanik pustakaalay ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0094,कचरा संग्रहण सेवा के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0115,"कृषि सब्सिडी योजना के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0074,"अज्ञात सूत्र का कहना है कि सार्वजनिक पुस्तकालय के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",real,hi,synthetic_demo
+demo_0139,"matdaata panjeekaran abhiyaan ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0053,Adhikariyon ne press briefing mein ration card yojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0101,Officials confirmed the schedule for the scholarship programme at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0020,"Agyaat sutra ka kehna hai ki raashtreeya raajmaarg ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0042,"फॉरवर्ड संदेश का दावा है कि बैंक ऋण योजना के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0048,"Forward message ka daava hai ki ration card yojana ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0117,Sarkari vibhag ne krishi subsidy yojana ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0118,krishi subsidy yojana ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0009,The government department published an official notice about the new vaccine and shared the full document on its website.,real,en,synthetic_demo
+demo_0083,Officials confirmed the schedule for the mobile network service at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0137,Adhikariyon ne press briefing mein yaataayaat jurmaana pranaali ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0088,sampatti kar pranaali ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0097,"छात्रवृत्ति कार्यक्रम के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0088,संपत्ति कर प्रणाली के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0075,Sarkari vibhag ne saarvajanik pustakaalay ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0082,मोबाइल नेटवर्क सेवा के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0110,"Anonymous source says that the bus pass system will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0133,"यातायात जुर्माना प्रणाली के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0076,A news report about the public library cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0134,"अज्ञात सूत्र का कहना है कि यातायात जुर्माना प्रणाली के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0124,A news report about the community health camp cites the official statistics and includes comments from named experts.,fake,en,synthetic_demo
+demo_0047,Adhikariyon ne press briefing mein bank rin yojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0130,havaai adde ke vistaar ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0096,"Forwarded message claims the truth about the scholarship programme is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0098,"Anonymous source says that the scholarship programme will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0007,"नए टीके के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0095,Officials confirmed the schedule for the garbage collection service at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0070,A news report about the pension scheme cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0079,"मोबाइल नेटवर्क सेवा के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0029,Adhikariyon ne press briefing mein school pravesh prakriya ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0134,"Agyaat sutra ka kehna hai ki yaataayaat jurmaana pranaali ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0118,A news report about the farm subsidy scheme cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0049,"राशन कार्ड योजना के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0065,अधिकारियों ने प्रेस ब्रीफिंग में बाढ़ राहत कोष के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0056,"Agyaat sutra ka kehna hai ki metro pariyojana ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0052,राशन कार्ड योजना के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0044,"Agyaat sutra ka kehna hai ki bank rin yojana ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0004,A news report about the city water supply cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0128,"Agyaat sutra ka kehna hai ki havaai adde ke vistaar ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0022,राष्ट्रीय राजमार्ग के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0121,"सामुदायिक स्वास्थ्य शिविर के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0113,अधिकारियों ने प्रेस ब्रीफिंग में बस पास प्रणाली के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0028,स्कूल प्रवेश प्रक्रिया के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0076,सार्वजनिक पुस्तकालय के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0067,"SHOCKING secret about the pension scheme that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0059,Officials confirmed the schedule for the metro project at a press briefing and published the dates in the public record.,real,en,synthetic_demo
+demo_0139,"SHOCKING secret about the voter registration drive that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0095,अधिकारियों ने प्रेस ब्रीफिंग में कचरा संग्रहण सेवा के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0002,"अज्ञात सूत्र का कहना है कि शहर की पानी की आपूर्ति के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0029,अधिकारियों ने प्रेस ब्रीफिंग में स्कूल प्रवेश प्रक्रिया के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0037,"gaon ke aspataal ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0134,"Anonymous source says that the traffic fine system will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0008,"अज्ञात सूत्र का कहना है कि नए टीके के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0030,"Forward message ka daava hai ki bijli connection ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0101,अधिकारियों ने प्रेस ब्रीफिंग में छात्रवृत्ति कार्यक्रम के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0119,अधिकारियों ने प्रेस ब्रीफिंग में कृषि सब्सिडी योजना के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0132,"Forward message ka daava hai ki yaataayaat jurmaana pranaali ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0099,The government department published an official notice about the scholarship programme and shared the full document on its website.,real,en,synthetic_demo
+demo_0114,"Forward message ka daava hai ki krishi subsidy yojana ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0077,Adhikariyon ne press briefing mein saarvajanik pustakaalay ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0036,"फॉरवर्ड संदेश का दावा है कि गाँव के अस्पताल के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0098,"Agyaat sutra ka kehna hai ki chhaatravritti kaaryakram ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",fake,hi-Latn,synthetic_demo
+demo_0118,कृषि सब्सिडी योजना के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0097,"SHOCKING secret about the scholarship programme that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0060,"फॉरवर्ड संदेश का दावा है कि बाढ़ राहत कोष के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0139,"मतदाता पंजीकरण अभियान के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0120,"Forwarded message claims the truth about the community health camp is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0025,"SHOCKING secret about the school admission process that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0083,अधिकारियों ने प्रेस ब्रीफिंग में मोबाइल नेटवर्क सेवा के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0040,gaon ke aspataal ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0130,हवाई अड्डे के विस्तार के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0055,"SHOCKING secret about the metro project that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0138,"Forwarded message claims the truth about the voter registration drive is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0108,"Forward message ka daava hai ki bus pass pranaali ke baare mein sach chhipaya ja raha hai, delete hone se pehle sabko share karein!",fake,hi-Latn,synthetic_demo
+demo_0069,Sarkari vibhag ne pension yojana ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0133,"yaataayaat jurmaana pranaali ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0045,Sarkari vibhag ne bank rin yojana ke baare mein aadhikarik soochna jaari ki aur poora dastavez apni website par saajha kiya.,real,hi-Latn,synthetic_demo
+demo_0121,"saamudaayik svaasthya shivir ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0049,"ration card yojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0127,"हवाई अड्डे के विस्तार के बारे में चौंकाने वाला राज़ जो डॉक्टर और अधिकारी आपको नहीं बताना चाहते, 100% सिद्ध!",fake,hi,synthetic_demo
+demo_0141,सरकारी विभाग ने मतदाता पंजीकरण अभियान के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0023,अधिकारियों ने प्रेस ब्रीफिंग में राष्ट्रीय राजमार्ग के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0085,"SHOCKING secret about the property tax system that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0012,"फॉरवर्ड संदेश का दावा है कि स्थानीय रेल सेवा के बारे में सच छिपाया जा रहा है, डिलीट होने से पहले सबको शेयर करें!",fake,hi,synthetic_demo
+demo_0068,"Agyaat sutra ka kehna hai ki pension yojana ke baare mein raaton-raat sab badal jayega aur sabka paisa doobega, kisi aadhikarik pushti ki zaroorat nahi.",real,hi-Latn,synthetic_demo
+demo_0018,"Forwarded message claims the truth about the national highway is being hidden, share with everyone before it is deleted!",fake,en,synthetic_demo
+demo_0085,"sampatti kar pranaali ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0106,A news report about the digital payment app cites the official statistics and includes comments from named experts.,real,en,synthetic_demo
+demo_0115,"krishi subsidy yojana ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0056,"अज्ञात सूत्र का कहना है कि मेट्रो परियोजना के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0004,शहर की पानी की आपूर्ति के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0107,अधिकारियों ने प्रेस ब्रीफिंग में डिजिटल भुगतान ऐप के बारे में कार्यक्रम की पुष्टि की और तारीखें सार्वजनिक रिकॉर्ड में प्रकाशित कीं।,real,hi,synthetic_demo
+demo_0116,"अज्ञात सूत्र का कहना है कि कृषि सब्सिडी योजना के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0071,Adhikariyon ne press briefing mein pension yojana ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0014,"अज्ञात सूत्र का कहना है कि स्थानीय रेल सेवा के बारे में रातों-रात सब बदल जाएगा और सबका पैसा डूबेगा, किसी आधिकारिक पुष्टि की ज़रूरत नहीं।",fake,hi,synthetic_demo
+demo_0007,"naye teeke ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0052,ration card yojana ke baare mein ek samachar report aadhikarik aankdon ka hawala deti hai aur naamit visheshagyon ki tippaniyan shaamil karti hai.,real,hi-Latn,synthetic_demo
+demo_0045,सरकारी विभाग ने बैंक ऋण योजना के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0095,Adhikariyon ne press briefing mein kachra sangrahan seva ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0031,"bijli connection ke baare mein chaunkane wala raaz jo doctor aur adhikari aapko nahi batana chahte, 100% siddh!",fake,hi-Latn,synthetic_demo
+demo_0111,सरकारी विभाग ने बस पास प्रणाली के बारे में आधिकारिक सूचना जारी की और पूरा दस्तावेज़ अपनी वेबसाइट पर साझा किया।,real,hi,synthetic_demo
+demo_0116,"Anonymous source says that the farm subsidy scheme will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
+demo_0058,मेट्रो परियोजना के बारे में एक समाचार रिपोर्ट आधिकारिक आँकड़ों का हवाला देती है और नामित विशेषज्ञों की टिप्पणियाँ शामिल करती है।,real,hi,synthetic_demo
+demo_0113,Adhikariyon ne press briefing mein bus pass pranaali ke baare mein kaaryakram ki pushti ki aur taareekhein saarvajanik record mein prakaashit keen.,real,hi-Latn,synthetic_demo
+demo_0031,"SHOCKING secret about the electricity connection that doctors and officials do not want you to know, 100% proven!",fake,en,synthetic_demo
+demo_0062,"Anonymous source says that the flood relief fund will change overnight and everyone will lose money, no official confirmation needed.",fake,en,synthetic_demo
